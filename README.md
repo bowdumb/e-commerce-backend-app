@@ -18,12 +18,14 @@ This is entirely a back end application, and therefore the heavy lifting is all 
 
 ## Screenshots
 
-[! Image demonstrating GET request in Insomnia](/screenshots/Screenshot%202023-05-16%20at%2010.58.16%20PM%20(2).png)
+![Image demonstrating GET request in Insomnia](/screenshots/Screenshot%202023-05-16%20at%2010.58.16%20PM%20(2).png)
 
-[! Image demonstrating a POST route to create a new category](/screenshots/Screenshot%202023-05-16%20at%2010.58.59%20PM%20(2).png)
+![Image demonstrating a POST route to create a new category](/screenshots/Screenshot%202023-05-16%20at%2010.58.59%20PM%20(2).png)
 
 ## Contact
 
 For questions regarding this project, please feel free to contact me on LinkedIn at <a href="https://www.linkedin.com/in/joshua-claxton-916a2a272/">this link</a>
 
 ## Video Demonstration
+
+<a href="https://drive.google.com/file/d/1gLhYsHCH82D4zFWWTKmjVMHhY25eiYb8/view">Click here for a video demonstration</a>
